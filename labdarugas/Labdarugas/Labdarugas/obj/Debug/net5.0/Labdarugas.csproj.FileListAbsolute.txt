@@ -1,0 +1,16 @@
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.csproj.AssemblyReference.cache
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.GeneratedMSBuildEditorConfig.editorconfig
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.AssemblyInfoInputs.cache
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.AssemblyInfo.cs
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.csproj.CoreCompileInputs.cache
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.exe
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.deps.json
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.runtimeconfig.json
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.runtimeconfig.dev.json
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.dll
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\ref\Labdarugas.dll
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\bin\Debug\net5.0\Labdarugas.pdb
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.dll
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\ref\Labdarugas.dll
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.pdb
+J:\C_sharp\C#halado_2felev\labdarugas\Labdarugas\Labdarugas\obj\Debug\net5.0\Labdarugas.genruntimeconfig.cache
